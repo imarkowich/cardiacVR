@@ -794,6 +794,7 @@ PlayerSettings:
   webGLPowerPreference: 2
   scriptingDefineSymbols:
     Android: UIKIT_TMP
+    Standalone: UIKIT_TMP
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
